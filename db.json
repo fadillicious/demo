@@ -1,6 +1,6 @@
 {
   "office": [
-    { "office_name": "Kementerian Komunikasi dan Informatika", "lat": "-6.175079", "lon": "106.821812" },
-    { "office_name": "BPPTIK Cikarang", "lat": "-6.265491", "lon": "107.102497" }
+    { "office_name": "Kementerian Komunikasi dan Informatika", "lat": "-6.175079", "lon": "106.821812", "radius": 1000 },
+    { "office_name": "BPPTIK Cikarang", "lat": "-6.265491", "lon": "107.102497", "radius": 1000 }
   ]
 }
